@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mohamad Irfan Maulana 👋
+# Hi, I'm Mohamad Irfan Maulana
 
 ### Software Engineer • Full-Stack Web Developer
 
